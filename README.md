@@ -6,9 +6,9 @@ GOAL: FINISH BY FRIDAY
 
 inspiration from Dataquest
 
-files NOT included:
-- any web scraped files
-- asdf
+files NOT shown:
+- web scraped files
+- uncleaned .csv files
 - asdf
 - asdf
 
