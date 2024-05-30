@@ -9,13 +9,10 @@ files NOT shown:
 - uncleaned .csv files
 
 NOTE:\
-for simplicity's sake, mvp voting from 2022 onward (i.e. the 22-23 and 23-24 seasons) were manually reverted back to old ap nfl mvp voting standards (50 first place votes)\
-MEANING data does not take into account 2nd, 3rd, ... place votes\
-ex. josh allen was officially rk 5 in the ap nfl mvp voting for the 23-24 season, but is listed as rk 2 in the csv file b/c he was the only other player with a 1st place vote\
-\
+for simplicity's sake, only first place votes for from 2022 onward were taken into account and cleaned in the data sets\
+only qbs and rbs were in the final data sets as those are the only two positions who have won AP NFL MVP since 2000 (more details in data-cleaning)\
 
-ANOTHER NOTE:\
-will test once 2024-2025 nfl season begins\
-algorithms are lowkey scuffed b/c nfl consists of multitude of factors/players/positions\
+will test once 2024-2025 nfl season beings\
+algorithms are lowkey scuffed b/c nfl sucks and I blow 
 
 
